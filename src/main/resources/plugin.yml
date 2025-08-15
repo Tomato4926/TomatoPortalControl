@@ -1,5 +1,5 @@
-name: PortalControl
-version: 1.0
+name: TomatoPortalControl
+version: 1.1
 main: com.tomato.tomatoPortalControl.TomatoPortalControl
 api-version: 1.21
 description: 禁止非玩家实体穿越下界门和末地门（折跃门除外）
