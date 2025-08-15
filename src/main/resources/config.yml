@@ -1,0 +1,14 @@
+# 传送门控制插件配置
+
+# 调试模式 - 在控制台显示更多信息
+debug-mode: false
+
+# 受保护的传送门类型
+portal-blocks:
+  - NETHER_PORTAL
+  - END_PORTAL
+
+# 允许穿越传送门的实体类型
+whitelisted-entities:
+  - ENDER_DRAGON
+  - WITHER
